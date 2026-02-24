@@ -1,2 +1,2 @@
-Cybersecurity-Network-Security-study-notes
+network-security-notes
 Masters of Cybersecurity — Class Notes &amp; Study Materials-Network Security
